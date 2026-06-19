@@ -99,4 +99,4 @@ npm run preview
 - Dummy menu/testimonial/gallery data is stored in `src/data/siteData.js`.
 - You can replace image URLs and text without touching component logic.
 
-Enjoy building and customizing Brew Haven! ☕
+Enjoy building and customizing Brew Haven! 

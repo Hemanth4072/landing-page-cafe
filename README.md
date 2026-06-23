@@ -17,11 +17,6 @@ This project serves as a complete landing page solution for cafés, coffee shops
 * Mobile-friendly hamburger menu
 * Smooth scrolling between sections
 
-### Hero Section
-
-* Attractive full-screen banner
-* Animated entrance effects
-* Call-to-action buttons for user engagement
 
 ### About Us
 
